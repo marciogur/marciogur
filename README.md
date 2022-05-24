@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marciogur
-- 👀 I’m interested in Processing learning > web learning > frontEnd > Moodle 
-- 🌱 I’m currently learning flex box > Moodle > git >  >
-- 💞️ I’m looking to collaborate in what I can
+- 👀 I’m interested in Processing learning > web learning > frontEnd > LMS Platform
+- 🌱 I’m currently learning Responsive Code > Moodle > ADS > API > JS > Bootstrap
+- 💞️ I want to collaborate in what I can
 - 📫 How to reach me ...
 
 <!---
